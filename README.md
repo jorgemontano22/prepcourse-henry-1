@@ -1,2 +1,1 @@
-# prepcourse-henry-1
-segundo intento del repositorio del modulo2 de prepcourse de henry
+segundo proyecto de crear un repositorio de github y clonarlo a mi computadora
